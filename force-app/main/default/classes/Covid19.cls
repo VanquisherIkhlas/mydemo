@@ -29,7 +29,7 @@ public class Covid19 {
         recoveredcountry++;
         
     }
-    
+    //making change to see repo action
     public Integer gettreated()
     {
         return recoveredInArea;
