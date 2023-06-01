@@ -3,7 +3,7 @@ public class Covid19 {
     public Integer recoveredInArea=0;
     public static Integer recoveredcountry=0;
     
-    
+    //added 1 comment
    
    /* public Covid19()
     {
